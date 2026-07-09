@@ -1,0 +1,19 @@
+VELORIA/
+│
+├── index.html
+├── models.html
+├── about.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│   ├── hero.png          ← dein Bild
+│   ├── logo.png
+│   └── ...
+│
+└── fonts/
